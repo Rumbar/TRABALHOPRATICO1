@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1510" height="900" viewBox="0 0 1510 900">
+<rect x="0" y="0" width="1510" height="900" fill="#FFFFFF"/>
+<path d="M340,160 L465,160 L465,190 L590,190" fill="none" stroke="#7F7F7F" stroke-width="2"/>
+<text x="348" y="152" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">1</text>
+<text x="566" y="182" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">N</text>
+<path d="M1160,160 L1040,160 L1040,190 L920,190" fill="none" stroke="#7F7F7F" stroke-width="2"/>
+<text x="1140" y="152" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">1</text>
+<text x="928" y="182" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">N</text>
+<path d="M755,304 L755,470" fill="none" stroke="#7F7F7F" stroke-width="2"/>
+<text x="765" y="322" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">1</text>
+<text x="765" y="462" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">N</text>
+<path d="M340,640 L450,640 L450,610 L560,610" fill="none" stroke="#7F7F7F" stroke-width="2"/>
+<text x="348" y="632" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">1</text>
+<text x="536" y="602" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">N</text>
+<path d="M1160,640 L1055,640 L1055,610 L950,610" fill="none" stroke="#7F7F7F" stroke-width="2"/>
+<text x="1140" y="632" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">1</text>
+<text x="958" y="602" font-family="Arial" font-size="14" font-weight="bold" fill="#1F3864">N</text>
+<rect x="40" y="60" width="300" height="132" rx="6" fill="#FFFFFF" stroke="#1F3864" stroke-width="2"/>
+<path d="M40,94 h300 v-28 a6,6 0 0 0 -6,-6 h-288 a6,6 0 0 0 -6,6 z" fill="#2F5597"/>
+<text x="190.0" y="83" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Fabricante</text>
+<text x="50" y="110" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">PK</text>
+<text x="78" y="110" font-family="Arial" font-size="13" font-weight="bold" fill="#1F3864">FabricanteId</text>
+<text x="330" y="110" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="50" y="132" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="78" y="132" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Nome</text>
+<text x="330" y="132" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(80)</text>
+<text x="78" y="154" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">PaisOrigem</text>
+<text x="330" y="154" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(60)</text>
+<text x="78" y="176" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">AnoFundacao</text>
+<text x="330" y="176" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<rect x="1160" y="60" width="310" height="132" rx="6" fill="#FFFFFF" stroke="#1F3864" stroke-width="2"/>
+<path d="M1160,94 h310 v-28 a6,6 0 0 0 -6,-6 h-298 a6,6 0 0 0 -6,6 z" fill="#2F5597"/>
+<text x="1315.0" y="83" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Categoria</text>
+<text x="1170" y="110" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">PK</text>
+<text x="1198" y="110" font-family="Arial" font-size="13" font-weight="bold" fill="#1F3864">CategoriaId</text>
+<text x="1460" y="110" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="1170" y="132" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="1198" y="132" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Nome</text>
+<text x="1460" y="132" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(50)</text>
+<text x="1198" y="154" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Descricao</text>
+<text x="1460" y="154" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(200)</text>
+<text x="1198" y="176" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">PercentualAjuste</text>
+<text x="1460" y="176" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">decimal(5,2)</text>
+<rect x="590" y="40" width="330" height="264" rx="6" fill="#FFFFFF" stroke="#1F3864" stroke-width="2"/>
+<path d="M590,74 h330 v-28 a6,6 0 0 0 -6,-6 h-318 a6,6 0 0 0 -6,6 z" fill="#2F5597"/>
+<text x="755.0" y="63" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Veiculo</text>
+<text x="600" y="90" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">PK</text>
+<text x="628" y="90" font-family="Arial" font-size="13" font-weight="bold" fill="#1F3864">VeiculoId</text>
+<text x="910" y="90" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="600" y="112" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="628" y="112" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Placa</text>
+<text x="910" y="112" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">char(8)</text>
+<text x="628" y="134" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Modelo</text>
+<text x="910" y="134" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(80)</text>
+<text x="628" y="156" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">AnoFabricacao</text>
+<text x="910" y="156" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="628" y="178" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Quilometragem</text>
+<text x="910" y="178" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="628" y="200" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Cor</text>
+<text x="910" y="200" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(30)</text>
+<text x="628" y="222" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">ValorDiaria</text>
+<text x="910" y="222" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">decimal(10,2)</text>
+<text x="628" y="244" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Status</text>
+<text x="910" y="244" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="600" y="266" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">FK</text>
+<text x="628" y="266" font-family="Arial" font-size="13" font-weight="normal" fill="#1F3864">FabricanteId</text>
+<text x="910" y="266" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="600" y="288" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">FK</text>
+<text x="628" y="288" font-family="Arial" font-size="13" font-weight="normal" fill="#1F3864">CategoriaId</text>
+<text x="910" y="288" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<rect x="40" y="520" width="300" height="242" rx="6" fill="#FFFFFF" stroke="#1F3864" stroke-width="2"/>
+<path d="M40,554 h300 v-28 a6,6 0 0 0 -6,-6 h-288 a6,6 0 0 0 -6,6 z" fill="#2F5597"/>
+<text x="190.0" y="543" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Cliente</text>
+<text x="50" y="570" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">PK</text>
+<text x="78" y="570" font-family="Arial" font-size="13" font-weight="bold" fill="#1F3864">ClienteId</text>
+<text x="330" y="570" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="78" y="592" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Nome</text>
+<text x="330" y="592" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(120)</text>
+<text x="50" y="614" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="78" y="614" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Cpf</text>
+<text x="330" y="614" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">char(11)</text>
+<text x="50" y="636" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="78" y="636" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Email</text>
+<text x="330" y="636" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(120)</text>
+<text x="78" y="658" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Telefone</text>
+<text x="330" y="658" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(20)</text>
+<text x="78" y="680" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">DataNascimento</text>
+<text x="330" y="680" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">date</text>
+<text x="78" y="702" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">NumeroCnh</text>
+<text x="330" y="702" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(11)</text>
+<text x="78" y="724" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">CategoriaCnh</text>
+<text x="330" y="724" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(3)</text>
+<text x="78" y="746" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">DataCadastro</text>
+<text x="330" y="746" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">date</text>
+<rect x="1160" y="520" width="310" height="176" rx="6" fill="#FFFFFF" stroke="#1F3864" stroke-width="2"/>
+<path d="M1160,554 h310 v-28 a6,6 0 0 0 -6,-6 h-298 a6,6 0 0 0 -6,6 z" fill="#2F5597"/>
+<text x="1315.0" y="543" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Funcionario</text>
+<text x="1170" y="570" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">PK</text>
+<text x="1198" y="570" font-family="Arial" font-size="13" font-weight="bold" fill="#1F3864">FuncionarioId</text>
+<text x="1460" y="570" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="1198" y="592" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Nome</text>
+<text x="1460" y="592" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(120)</text>
+<text x="1170" y="614" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="1198" y="614" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Cpf</text>
+<text x="1460" y="614" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">char(11)</text>
+<text x="1170" y="636" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">UQ</text>
+<text x="1198" y="636" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Matricula</text>
+<text x="1460" y="636" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(20)</text>
+<text x="1198" y="658" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Cargo</text>
+<text x="1460" y="658" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(60)</text>
+<text x="1198" y="680" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">DataAdmissao</text>
+<text x="1460" y="680" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">date</text>
+<rect x="560" y="470" width="390" height="330" rx="6" fill="#FFFFFF" stroke="#1F3864" stroke-width="2"/>
+<path d="M560,504 h390 v-28 a6,6 0 0 0 -6,-6 h-378 a6,6 0 0 0 -6,6 z" fill="#2F5597"/>
+<text x="755.0" y="493" font-family="Arial" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Aluguel</text>
+<text x="570" y="520" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">PK</text>
+<text x="598" y="520" font-family="Arial" font-size="13" font-weight="bold" fill="#1F3864">AluguelId</text>
+<text x="940" y="520" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="570" y="542" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">FK</text>
+<text x="598" y="542" font-family="Arial" font-size="13" font-weight="normal" fill="#1F3864">ClienteId</text>
+<text x="940" y="542" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="570" y="564" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">FK</text>
+<text x="598" y="564" font-family="Arial" font-size="13" font-weight="normal" fill="#1F3864">VeiculoId</text>
+<text x="940" y="564" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="570" y="586" font-family="Arial" font-size="10" font-weight="bold" fill="#2F5597">FK</text>
+<text x="598" y="586" font-family="Arial" font-size="13" font-weight="normal" fill="#1F3864">FuncionarioId</text>
+<text x="940" y="586" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="598" y="608" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">DataRetirada</text>
+<text x="940" y="608" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">datetime2</text>
+<text x="598" y="630" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">DataPrevistaDevolucao</text>
+<text x="940" y="630" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">datetime2</text>
+<text x="598" y="652" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">DataDevolucao</text>
+<text x="940" y="652" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">datetime2 NULL</text>
+<text x="598" y="674" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">QuilometragemInicial</text>
+<text x="940" y="674" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="598" y="696" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">QuilometragemFinal</text>
+<text x="940" y="696" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int NULL</text>
+<text x="598" y="718" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">ValorDiaria</text>
+<text x="940" y="718" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">decimal(10,2)</text>
+<text x="598" y="740" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">ValorTotal</text>
+<text x="940" y="740" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">decimal(10,2)</text>
+<text x="598" y="762" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Status</text>
+<text x="940" y="762" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">int</text>
+<text x="598" y="784" font-family="Arial" font-size="13" font-weight="normal" fill="#333333">Observacao</text>
+<text x="940" y="784" font-family="Arial" font-size="11" fill="#808080" text-anchor="end">varchar(300)</text>
+<text x="40" y="862" font-family="Arial" font-size="13" fill="#595959">PK = chave primaria | FK = chave estrangeira | UQ = restricao de unicidade</text>
+<text x="1470" y="862" font-family="Arial" font-size="13" fill="#595959" text-anchor="end">Banco: LocadoraVeiculos (SQL Server)</text>
+</svg>
